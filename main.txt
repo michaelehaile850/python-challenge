@@ -1,0 +1,20 @@
+Total number of months: 86
+net_total: 22564198
+Average Change: -8311.105882352942
+-8311.105882352942
+The greatest increase in profits was 1862002 in Aug-16.
+The greatest decrease in profits was -1825558 in Feb-14.
+total_votes:  369711
+Charles Casper Stockham: 23.049% (85213 votes)
+Diana DeGette: 73.812% (272892 votes)
+Raymon Anthony Doane: 3.139% (11606 votes)
+Total votes for each candidate:
+Charles Casper Stockham: 85213 votes
+Diana DeGette: 272892 votes
+Raymon Anthony Doane: 11606 votes
+Total votes for each candidate:
+Charles Casper Stockham: 85213 votes
+Diana DeGette: 272892 votes
+Raymon Anthony Doane: 11606 votes
+
+The winner of the election based on popular vote is: Diana DeGette with 272892 votes.
